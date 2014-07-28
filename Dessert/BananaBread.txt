@@ -12,10 +12,11 @@ Banana Bread
 1/2 C. Chopped Walnuts
 
 Method:
-	Preheat oven to 350F. Combine shortening and sugar, then add 1/4 C. water and vanilla. After that is
-	evenly mixed add baking soda and rest of water. In a seperate bowl combine
-	flour, salt, cinnamon, and nutmeg. Add this to other mixture. Mix thoroughly
-	and then add bananas and walnuts. Bake in well oiled 9x5x3 loaf pan for 50 minutes. This
-	can be baked in a smaller loaf pan, but will have to be cooked longer. To test
-	for doneness poke a toothpick into center and remove. If toothpick comes out
-	clean banana bread is done.
+    Preheat oven to 350F. Combine shortening and sugar, then add 1/4 C. water
+    and vanilla. After that is evenly mixed add baking soda and rest of water.
+    In a separate bowl combine flour, salt, cinnamon, and nutmeg. Add this to
+    other mixture. Mix thoroughly and then add bananas and walnuts. Bake in well
+    oiled 9x5x3 loaf pan for 50 minutes. This can be baked in a smaller loaf
+    pan, but will have to be cooked longer. To test for doneness poke a
+    toothpick into center and remove. If toothpick comes out clean banana bread
+    is done.
