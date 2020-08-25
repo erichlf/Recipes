@@ -1,0 +1,36 @@
+#+TITLE:       Shakshuka
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/Shakshuka
+#+KEYWORDS:    vegan, entree, middle eastern
+#+TAGS:        vegan, entree, middle eastern
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Shakshuka
+* Ingredients:
+- 1 T Olive Oil
+- 1/2 C White Onion (diced)
+- 3 cloves garlic (minced)
+- 1 28 Oz Can Diced Tomatoes
+- 3 T Tomato Paste
+- 1 T Maple Syrup
+- 2 tsp Salt
+- 2 tsp Smoked Paprika
+- 1 tsp Ground Cumin
+- 2 tsp Cayenne Pepper
+- 1/4 tsp Ground Cinnamon
+- 1 pinch Cardamom
+- 1 pinch Coriander
+- 225 g Dry Chickpeas (soaked and ready to cook)
+- 10 Kalamata Olives (pitted)
+- Fresh Cilantro (chopped)
+
+* Method:
+1. Heat olive oil in large sauce pan over medium heat.
+2. Add onion and garlic. Saute for 4-5 minutes, or until translucent.
+3. Add diced tomatoes, tomato paste, honey, salt, paprika, cumin, cayenne,
+   cinnamon, cardamom, and coriander.
+4. Simmer over medium heat and cook for 2-3 minutes, stirring frequently.
+5. Add chickpeas and olives.
+6. Simmer on medium-low for 15-20 minutes.
+7. Serve with bread, rice, or farro.

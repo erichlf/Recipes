@@ -1,0 +1,57 @@
+#+TITLE:       Pizza
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/Pizza
+#+KEYWORDS:    entree, italian
+#+TAGS:        entree, italian
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Pizza
+* Ingredients:
+** Sauce:
+- 2 Cans of Diced Tomatoes in Sauce
+- 2 Cloves of Garlic (minced)
+- 1 T Olive Oil
+- 2 tsp Oregano
+- 1 tsp Rosemary
+- 1/2 tsp Thyme
+- 1 Bay Leaf
+- 1 tsp Basil
+- Salt to taste
+
+** Dough:
+- 100% Flour
+- 10% Yeast
+- 2% Salt
+- 2% Honey
+- 2% Olive Oil
+- 60% Water
+- 10% Gluten
+- Corn Meal for pan dusting
+
+* Method:
+** Sauce:
+1. In a large sauce pan heal oil.
+2. Saute garlic  until it begins to brown (don't over cook as it will become bitter).
+3. Add canned tomatoes and simmer for about 20 minutes, or until it reduces to a sauce
+   like consistency.
+4. Add all spices and cook for another 5 minutes.
+
+** Dough:
+1. Mix all ingredients together and let sit for 15 minutes.
+2. Knead until dough is smooth and elastic.
+3. Place in oiled bowl and cover with moist towel.
+4. Let rise until dough has doubled in size.
+
+** Combine:
+1. Preheat oven to highest setting.
+2. Cut dough into two parts.
+3. Press dough outwards from center to make a circle, leaving the center a bit thicker
+   than the edges.
+4. Spread a small amount of sauce over the dough from the center outward.
+5. Put your favorite toppings on the pizza.
+6. Place pizza in hot oven cook until crust becomes golden brown and the toppings are
+   cooked to desired doneness.
+
+* Note:
+The measurements are in baking percentages. You can find out more [[http://www.thefreshloaf.com/handbook/baker039s-math][here]].

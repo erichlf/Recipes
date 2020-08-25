@@ -1,0 +1,33 @@
+#+TITLE:       Ramen
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/Ramen
+#+KEYWORDS:    vegan, entree, japanese
+#+TAGS:        vegan, entree, japanese
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Mushroom Ramen
+* Ingredients:
+- 1 T Oil
+- 7 Oz Shiitake Mushrooms (stems removed, thinly sliced)
+- 4 Garlic Cloves (minced)
+- 1 inch piece ginger (peeled, minced)
+- 1 Chile Pepper (minced)
+- 5 Oz package Ramen Noodles
+- 1 C Vegetable Broth
+- 4 C Baby Spinach
+- 1 T Plant Based Butter
+- 2 Scallions (chopped)
+
+* Method:
+1. Heat oil in a large skillet over high heat.
+2. Add the mushrooms and cook 1 to 2 minutes, stirring occasionally until the mushrooms
+   start to soften.
+3. Add the garlic, ginger, and chile and reduce heat to medium.
+4. Cook another 1 to 2 minutes until the mushrooms are cooked and the garlic has begun to
+   brown.
+5. Add the broth and return heat to high until liquid begins to boil.
+6. Add noodles, cover, and reduce heat to simmer.
+7. Simmer 4 to 5 minutes until the noodles are tender.
+8. Add the spinach, and butter and cook 1 to 2 minutes or until the spinach is wilted.
+9. Garnish with scallions and serve immediately.

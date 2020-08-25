@@ -1,0 +1,32 @@
+#+TITLE:       Drunken Noodle
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/DrunkenNoodle
+#+KEYWORDS:    entree, thai
+#+TAGS:        entree, thai
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Drunken Noodle
+* Ingredients:
+- 1 pkg Baked Tofu
+- 1 pkg Fresh Pho Noodle
+- 2 Eggs (leave out to make vegan)
+- 10-15 Leaves of Fresh Thai Basil
+- 4 Cloves Garlic (chopped)
+- 1/4 White Onion (sliced)
+- 5-6 Thai Chilies
+- 1 T Chili Sauce (or Sriracha)
+- 1 T Dark Soy Sauce
+- 2 T Light Soy Sauce
+- 1 T Sugar
+- 1 C Vegie Stock
+- 2 T Oil
+
+* Method:
+1. Saute Onion, Garlic, and Chilies.
+2. Add Tofu and saute for about 5 minutes.
+3. Add stock, chili sauce, soy sauce, and sugar.
+4. Let boil and then add noodles.
+5. Cook until sauce is reduced.
+6. Make space for eggs and fry the eggs.
+7. Mix everything together.

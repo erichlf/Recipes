@@ -1,0 +1,28 @@
+#+TITLE:       Veggie Taco Meat
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/VeggieTacoMeat
+#+KEYWORDS:    veggie meats, lation
+#+TAGS:        veggie meats, latino
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Veggie Taco Meat
+* Ingredients:
+- 1 C T.V.P.
+- 1 1/2 T Chili Powder
+- 1 tsp Cumin
+- dash Cayenne
+- 1-2 tsp soy sauce
+- 1/2 Onion (chopped)
+- 1 Clove Garlic (minced)
+- 2 tsp Oil
+- salt to taste
+
+* Method:
+1. In a large skillet saute onion in oil over medium heat for about 3 minutes.
+2. Add garlic, cook about 1 minute.
+3. In a small saucepan, add T.V.P. to 1 C boiling water.
+4. Quickly add chili powder, cumin, cayenne, and soy sauce; stir until all of the water
+   and spices are absorbed.
+5. Incorporate the T.V.P. mixture with the onions in the skillet.
+6. Add salt to taste.

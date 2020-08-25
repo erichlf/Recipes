@@ -1,0 +1,58 @@
+#+TITLE:       Vegetable Quiche
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/VegetableQuiche
+#+KEYWORDS:    entree, french
+#+TAGS:        entree, french
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegetable Quiche
+* Ingredients:
+** Crust:
+- 1 1/4 C Flour
+- 1 T Sugar
+- 1/4 tsp Salt
+- 2 Oz Unsalted Butter
+- 1/4 C Crisco
+- 4 T Ice Cold Water
+
+** Filling:
+- Olive Oil for Sauteing
+- 1 Small Onion (diced)
+- 1 Clove Garlic (minced)
+- 1 Green Pepper
+- 1 Red Pepper
+- 1 Tomato (diced)
+- 1 C Mushrooms (sliced)
+- 1 C Chopped Broccoli
+- 1 1/2 C Shredded Cheddar
+- 1/4 C Grated Parmesan
+
+** Custard:
+- 5 Eggs
+- 1/4 C Milk
+
+* Method:
+** Crust:
+1. Mix dry ingredient together.
+2. Cut in cold butter until mixture forms little balls
+3. Do the same for the crisco.
+4. Now add water a table spoon at a time, until a dough ball forms.
+5. Place in refrigerator for 10 minutes.
+
+** Filling:
+1. Saute onions and garlic until the onions become tanslucent.
+3. Add peppers, tomato, mushrooms, and broccoli and saute until veggies become tender.
+
+** Custard:
+1. Wisk together eggs and milk.
+
+** Combine:
+1. Preheat oven to 450F.
+2. Roll out pie crust and place in pie tin.
+3. Bake covered with tinfoil and held down with weights (or dried beans) at 450F for 5 minutes.
+4. Remove tinfoil and bake for another 5 minutes.
+5. Remove from oven and reduce temp to 350F.
+6. Place veggies in crust and spread cheese over top of veggies.
+7. Pour the custard mixture over veggies
+8. Bake for 30-40 minutes
