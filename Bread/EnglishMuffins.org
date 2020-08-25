@@ -1,0 +1,36 @@
+#+TITLE:       English Muffins
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Bread/EnglishMuffins
+#+KEYWORDS:    bread, breakfast
+#+TAGS:        bread, breakfast
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Basic English Muffin Recipe
+* Ingredients:
+- 2 1/4 C Flour
+- 1/2 T Sugar
+- 1/4 tsp Salt
+- 1 1/4 tsp Instant Dry Yeast
+- 1 T Vegetable Shortening (at room temperature)
+- 3/4 - 1 C Milk (at room temperature)
+- Cornmeal (for sprinkling)
+
+* Method:
+1. In a large bowl, stir together the flour, sugar, salt and yeast.
+2. Mix in the shortening and 3/4 C of the milk. Add the remaining milk if the dough is too dry.
+3. Transfer the dough to a floured surface and knead for about 10 minutes.
+4. Place in a lightly oiled bowl and roll to coat the dough.
+5. Cover the bowl with a moist towel and let rise until the dough doubles.
+6. Divide the dough into 6 equal pieces and shape into balls.
+7. Lay parchment paper on a baking sheet and spray or lightly coat with oil and sprinkle with cornmeal.
+8. Move the dough balls to the baking sheet evenly spaced apart (giving them room to rise more).
+9. Cover the pan loosely with a moist towel and allow them to rise for another hour.
+10. Heat the oven to 350F and heat a skillet on medium heat on the stove top.
+11. Brush the skillet with oil and gently transfer the dough balls to the skillet a few at a time.
+12. Allow them to cook on the skillet for 5-8 minutes, until the bottoms are nicely browned.
+13. Carefully flip and cook the other side for about 5-8 minutes more. They should flatten as they cook.
+14. When the muffins look as if they are about to burn, remove them from the skillet and transfer quickly to a baking sheet.
+15. Bake at 350F for 5-8 minutes. Do not wait until all of the muffins have been cooked on the skillet before moving them to the oven.
+16. As the first batch is baking, move the second batch of muffins to the skillet.
+17. Transfer the baked muffins to a cooling rack and let cool for at least 30 minutes before splitting with a fork or serving.

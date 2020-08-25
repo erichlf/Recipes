@@ -1,0 +1,35 @@
+#+TITLE:       Sourdough English Muffins
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Bread/SourdoughEnglishMuffins
+#+KEYWORDS:    bread, sourdough, breakfast
+#+TAGS:        bread, sourdough, breakfast
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Sourdough English Muffins
+* Ingredients:
+** Sponge:
+- 33% Sourdough Starter (100% Hydration)
+- 77% Flour
+- 82% Milk
+
+** Dough:
+- 23% Flour
+- 7% Sugar
+- 3% Salt
+- 2% Baking Soda
+
+* Method:
+1. In a medium bowl, mix the sponge ingredients until just combined.
+2. Cover and let rest for 8 hours or overnight.
+3. Add the final dough ingredients and mix to roughly combine.
+4. Turn the dough out onto the counter and knead until the dough becomes smooth and elastic.
+5. Flour the counter and your hands well, and roll or pat the dough out to a thickness of about one-half inch.
+6. Cut the dough into 3 inch circles and place them on semolina-dusted parchment paper.
+7. Cover and let proof for 45 – 60 minutes.
+8. Lightly oil a griddle and heat it over medium-low heat.
+9. Cook the muffins for a total of about 7 or 8 minutes on each side, until browned and the sides are firm.
+10. Cool on a wire rack. To get the best nooks and crannies for toasting, split the muffins with a fork rather than a knife
+
+* Note:
+The measurements are in baking percentages. You can find out more [[http://www.thefreshloaf.com/handbook/baker039s-math][here]].

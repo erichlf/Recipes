@@ -1,0 +1,25 @@
+#+TITLE:       Whole Wheat Sandwich Bread
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Bread/WholeWheatSandwichBread
+#+KEYWORDS:    vegan, bread, whole wheat
+#+TAGS:        vegan, bread, whole wheat
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: A soft whole wheat sandwich bread
+* Ingredients:
+- 450 + 50 g 100% Whole Wheat Flour
+- 150 + 250 ml Pea Milk (or Oat Milk)
+- 3 T Plant Based Butter
+- 1 T Dry Yeast
+- 1 T Maple Syrup or Honey
+- 2 tsp Salt
+
+* Method:
+1. Prepare the tangzhong by combing 50 g of flour and 250 ml of pea milk in small pot. Simmer on
+   medium low while stirring until mixture becomes paste like.
+2. Set aside and let cool until almost room temperature.
+3. Mix all ingredients together and knead.
+4. Place in 12" bread pan and let rise until dough is slightly above rim.
+5. (Optional) Use a lame (or sharp knife) to score top of loaf twice down center about 1/2" apart.
+6. Bake in preheated 350F oven for 35 minutes.

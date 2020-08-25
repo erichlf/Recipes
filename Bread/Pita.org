@@ -1,0 +1,35 @@
+#+TITLE:       Pita
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Bread/Pita
+#+KEYWORDS:    bread, middle eastern
+#+TAGS:        bread, middle eastern
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: An easy pita bread
+* Ingredients:
+- 2 1/4 tsp Instant Dry Yeast
+- 1/2 C Warm Water
+- 3 C Flour
+- 1 1/4 tsp Salt
+- 1 tsp Sugar
+- 1 C Lukewarm Water
+
+* Method:
+1. Dissolve yeast in 1/2 C of warm water.
+2. Add sugar and stir until dissolved and let sit for 10-15 minutes until water is frothy.
+3. Combine flour and salt in large bowl.
+4. Make a small depression in the middle of flour and pour yeast water in depression.
+5. Slowly add 1 C of warm water, and stir until elastic.
+6. Place dough on floured surface and knead until dough is smooth and elastic.
+7. Coat large bowl with oil and place dough in bowl, rolling so all of the dough is coated.
+8. Let rise until doubled in size.
+9. Roll out in a rope, and pinch off 10-12 small pieces.
+10. Place balls on floured surface and let sit covered, with moist towel, for 10 minutes.
+11. Preheat oven to 500F and make sure rack is at the very bottom of oven. Be sure to preheat
+    the baking sheet also.
+12. Roll out each ball of dough with a rolling pin into 1/4 inch thick circles.
+13. Bake each circle for 4 minutes until the bread puffs up (sometimes they don't puff up, but they
+    still taste great).
+14. Turn over and bake for 2 minutes.
+15. Remove each pita from the baking sheet and add additional pitas for baking.
