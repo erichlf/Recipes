@@ -1,0 +1,50 @@
+#+TITLE:       Baked Donuts
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Dessert/BakedDonuts
+#+KEYWORDS:    dessert
+#+TAGS:        dessert
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Baked Donuts
+* Ingredients:
+** Dough:
+- 1/2 C + 3 T Warm Milk, divided
+- 1 1/8 tsp Active Dry Yeast (about half a packet)
+- 1 T Butter (melted and still warm)
+- 1/3 C Sugar
+- 1 Egg
+- 2 1/2 C Flour
+- 1/8 tsp Nutmeg
+- 1/2 tsp Sea Salt
+
+** Cinnamon-Sugar Coating:
+- 1/4 C Unsalted Butter (melted)
+- 1/3 C Sugar
+- 1/3 C Light Brown Sugar
+- 1 1/2 tsp Cinnamon
+
+* Method:
+1. Mix 3 T of the warm milk and yeast together.
+2. Set yeast mixture aside for 5 minutes.
+3. Mix the remaining 1/2 C of warm milk, butter, and sugar.
+4. Add yeast to above mixture.
+5. Mix in the egg, flour, nutmeg, and salt until the flour is incorporated.
+6. Turn out the dough onto a floured work surface and knead until smooth and elastic.
+7. Shape it into a smooth ball.
+8. Transfer the dough to an oiled bowl and cover with moist towel.
+9. Let the dough rise until its doubled in size.
+10. Preheat oven to 375F.
+11. Punch down the dough and roll it out 1/2-inch thick on a floured work surface.
+12. Cut out 2 - 3 inch diameter circles.
+13. Transfer the circles to a parchment-lined baking sheet.
+14. Cut out 1 inch diameter holes in the centers.
+15. Cover the baking sheet with a clean cloth and let the doughnuts rise for another 45 minutes.
+16. Bake in a 375F oven until the bottoms are just golden, 8 to 10 minutes.
+17. While the doughnuts are baking, melt the 1/4 C of butter.
+18. Combine sugars and cinnamon in separate bowl.
+19. Remove the doughnuts from the oven and let cool for a minute or two.
+20. Dip each donut in the melted butter and a quick toss in the sugars.
+
+* Notes:
+It is better to underbake then overbake here and so pull the donuts early if in doubt.

@@ -1,0 +1,49 @@
+#+TITLE:       Chocolate Cake
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Dessert/ChocolateCake
+#+KEYWORDS:    dessert
+#+TAGS:        dessert
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Rich Chocolate Cake
+* Ingredients:
+** Batter:
+- 100 g Unsalted Butter
+- 250 g Sugar
+- 50 ml Oil
+- 200 g Baking Chocolate
+- 2 tsp Vanilla Extract
+- 4 Eggs
+- 80 ml Milk
+- 100 ml Cream
+- 300 g Flour
+- 3 tsp Baking Powder
+
+** Frosting -
+- 200 g Baking Chocolate
+- 300 g Powdered Sugar
+- 50 g Butter
+- 50 ml Cream
+
+* Method:
+** Cake:
+1. Preheat oven to 180C (350F).
+2. Line the base of a deep 20 cm (9 inch) cake tin with parchment paper.
+
+2. Melt the butter over a low heat in a small pan.
+3. Add chocolate and let melt.
+4. Pour chocolate into a bowl with the sugar, oil, and vanilla.
+5. Beat until smooth.
+6. Whisk in the eggs followed by the milk and cream.
+7. Sift flour and baking powder into the butter mixture and beat until smooth.
+8. Pour into the prepared tin and cover the top of the tin with aluminum foil.
+9. Bake for 30 minutes.
+10. Remove the foil and bake for a another 20 minutes, or the top is springy
+    and a tooth pick comes out clean when inserted into the middle.
+11. Remove the cake from the oven and set aside to cool completely.
+
+** Frosting:
+1. Melt butter in a pan then add chocolate over low heat.
+2. Mix the chocolate/butter mixture and cream into the sugar.
+3. Spread the frosting onto the top of the cake.

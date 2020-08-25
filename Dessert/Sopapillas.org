@@ -1,0 +1,28 @@
+#+TITLE:       Sopapillas
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Dessert/Sopapillas
+#+KEYWORDS:    vegan, dessert, new mexican
+#+TAGS:        vegan, dessert, new mexican
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Sopapillas
+* Ingredients:
+- 2 C Flour
+- 1 tsp Baking Powder
+- 1/2 tsp Salt
+- 3 T Plant Based Butter
+- 3/4 C Water
+- Oil for Frying
+
+* Method:
+1. Mix dry ingredients together.
+2. Slowly mix in wet ingredients until a smooth ball is formed.
+3. Let sit for 20 minutes.
+4. Roll out into a rectangle that is a 1/4" thick.
+5. Cut into squares about 3"x3".
+6. Heat oil to 375F.
+7. Fry each sopapilla until it puffs up and turns golden.
+
+* Note:
+Sometimes the sopapillas just don't puff up, but they still taste good.

@@ -1,0 +1,41 @@
+#+TITLE:       Raw Chocolate Fudge
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Dessert/BananaBread
+#+KEYWORDS:    vegan, dessert, raw
+#+TAGS:        vegan, dessert, raw
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Raw Chocolate Fudge
+* Ingredients:
+** Base:
+- 170 g Dates
+- 75 g Cashew Nuts
+- 65 g C Pecans
+- 3 T Maple Syrup
+- 2 T Cocoa Nibs
+
+** Topping
+- 1 T Coconut Oil
+- 3 T Cocoa Powder
+- 3 T Maple Syrup
+- 2 T Chia Seeds
+- 50 g Dates
+- 40 g Pecans or Cashew Nuts
+
+* Method:
+** Base:
+1. Soak chia seeds in a bowl with 8 T of water and leave aside.
+2. Place all the base layer ingredients in a food processor and blend until combined
+   and sticking together.
+3. Press the mixture into the bottom of an inch-deep tray.
+
+** Topping:
+1. Place all the topping ingredients in food processor with the chia seeds and
+   most of the water and blend until smooth.
+2. Add a little more maple syrup if desired.
+
+** Combine:
+1. Scoop the topping out and smear on top of the base layer.
+2. Put tray in the freezer for at least an hour.
+3. Once set cut into portions.

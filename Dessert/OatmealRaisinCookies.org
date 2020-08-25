@@ -1,0 +1,28 @@
+#+TITLE:       Oatmeal Raisin Cookies
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Dessert/OatmealRaisinCookies
+#+KEYWORDS:    dessert, cookies
+#+TAGS:        dessert, cookies
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Oatmeal Raisin Cookies
+* Ingredients:
+- 50 g Butter
+- 50 g Sugar
+- 1 T Honey
+- 1 Egg
+- 1 tsp Cinnamon Powder
+- 50 g Flour
+- 1 tsp Baking Powder
+- 80 g Oats
+- 50 g Raisins
+
+* Method:
+1. Preheat oven to 180C.
+2. Cream butter and sugar together until thoroughly mixed.
+3. Mix in egg and add and cinnamon.
+4. In separate bowl mix together all dry ingredients.
+5. Mix together all ingredients.
+6. Form balls and place on greased baking sheet.
+7. Cook for 10-12 minutes on middle rack of oven.
