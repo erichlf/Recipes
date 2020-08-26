@@ -1,0 +1,18 @@
+#+TITLE:       Roast Beast
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/VeggieMeats/RoastBeast
+#+KEYWORDS:    vegan, veggie meat
+#+TAGS:        vegan, veggie meat
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Roast Beast
+* Ingredients:
+- 3 C wheat gluten
+- 4.5 C warm stock
+- 1 T onion powder
+- 1 T garlic powder
+
+* Method:
+1. Combine all ingredients.
+2. Cook in a liquid stock of whole black peppercorn, bay leaves, carrots, celery, and onion.

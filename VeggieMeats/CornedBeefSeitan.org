@@ -1,0 +1,38 @@
+#+TITLE:       Corned Beef Seitan
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/VeggieMeats/CornedBeefSeitan
+#+KEYWORDS:    vegan, veggie meat
+#+TAGS:        vegan, veggie meat
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Corned Beef Seitan
+* Ingredients:
+- 1 1/4 C Wheat Gluten
+- 1/2 T Mustard
+- 1/2 T Pepper
+- 1 tsp Coriander
+- 1 tsp Salt
+- 1/2 tsp Cloves
+- 1/2 tsp Red Pepper
+- 1/2 tsp Cinnamon
+- 1/2 tsp Allspice
+- 1 C Cold Water
+- 1/2 C Kidney Beans (mashed)
+- 2 T Oil
+- 1/2 Inch Piece Ginger Root (grated)
+- 1 Clove Garlic (minced)
+- 1 T Brown Sugar
+- 1 T Tomato Paste
+
+* Method:
+1. Preheat oven to 325 F.
+2. In a small bowl, mix together dry ingredients, wheat gluten through allspice.
+3. In a medium bowl, mix together remaining ingredients.
+4. Combine the wet and dry mixtures together until well-blended.
+5. Knead the mixture for a minute or two to condition the gluten.
+6. Shape dough into a 9-10″ log and roll tightly (double-roll, if you have to!) in aluminum foil, twisting
+   the ends to seal.
+7. Bake for an hour and 15 minutes.
+8. Let cool fully.
+9. slice, and serve.

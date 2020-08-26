@@ -1,0 +1,23 @@
+#+TITLE:       Tofurky
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/VeggieMeats/Tofurky
+#+KEYWORDS:    vegan, veggie meat
+#+TAGS:        vegan, veggie meat
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Tofurky
+* Ingredients:
+- 200g Vital Wheat Gluten
+- 20g Nutritional Yeast
+- 2T. Olive Oil
+- 1T. Soy Sauce
+- 1 Bullion Cube
+- 200 ml Water
+
+* Method:
+1. Mix liquid ingredients and bullion together until the bullion has disolved.
+2. Mix rest of ingredients together thoroughly.
+3. Knead for about 5 minutes.
+4. Wrap in tinfoil like a sausage.
+5. Bake at 120C (250F) for about 3 hours.

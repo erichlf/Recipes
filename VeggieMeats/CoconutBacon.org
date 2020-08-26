@@ -2,8 +2,8 @@
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/VeggieMeats/CoconutBacon
-#+KEYWORDS:    vegan, breakfast, meat substitute
-#+TAGS:        vegan, breakfast, meat substitute
+#+KEYWORDS:    vegan, breakfast, veggie meat
+#+TAGS:        vegan, breakfast, veggie meat
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Vegan Coconut Bacon
