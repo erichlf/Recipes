@@ -1,0 +1,25 @@
+#+TITLE: Lentil Rice Soup
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/SoupAndSalad/LentilRiceSoup
+#+KEYWORDS:    soup
+#+TAGS:        soup
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Lentil Rice Soup
+* Ingredients:
+- 2 T Olive Oil
+- 2 T Margarine
+- 1 Onion (chopped)
+- 1 C Lentils (prepared)
+- 1 1/2 tsp Salt
+- 1/2 C Brown Rice
+- 1 6-Oz Can Tomato Paste
+- 1 16-Oz Can Stewed Tomatoes
+- 3 C Water
+- 1 Bay Leaf
+
+* Method:
+1. Saute onions in oil and margarine until golden.
+2. Add remaining ingredients and simmer until tender.
+3. Add more water for desired consistency.

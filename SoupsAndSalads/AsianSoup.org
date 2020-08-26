@@ -1,0 +1,35 @@
+#+TITLE: Asian Soup
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/SoupAndSalad/AsianSoup
+#+KEYWORDS:    soup
+#+TAGS:        soup
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Asian Soup
+* Ingredients:
+- 2 C Bok Choy (chopped)
+- 2 C Napa Cabbage (chopped)
+- 5 Cloves Garlic (minced)
+- 1/4 C Fresh Ginger (julienned)
+- 6 Oz Shitake Mushrooms (sliced)
+- 2 C Scallions (chopped)
+- 1 C Canned Water Chestnuts (sliced)
+- 1 5 Oz Can Bamboo Shoots (sliced)
+- 1/2 C Red Pepper (thinly sliced)
+- 1/4 tsp Red Pepper Flakes
+- 8 C Vegetable Broth
+- 1 C Fresh Bean Sprouts
+- 2 C Snow Peas (stringed)
+- 2 T Soy Sauce
+- 1/2 C Cilantro (finely chopped)
+
+* Method:
+1. Put boc choy, napa cabbage, garlic, ginger root, shitake mushrooms, scallions, water chestnuts, bamboo shoots,
+   red bell pepper, pepper flakes and vegetable stock into a large soup pot.
+2. Stir to combine.
+3. Cover and bring to a boil over high heat.
+4. Reduce heat to low and simmer, partally covered for approximtely 10 minutes.
+5. Add bean sprouts, soy sauce and snow peas.
+6. Cook for an additional 4 minutes.
+7. Stir in cilantro and serve hot.
