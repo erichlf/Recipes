@@ -1,0 +1,22 @@
+#+TITLE:       Avocado Fries
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Appetizers/AvocadoFries
+#+KEYWORDS:    vegan, raw, appetizer
+#+TAGS:        vegan, raw, appetizer
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Avocado Fries
+* Ingredients:
+- 3 Avocados
+- 1/2 C Flax Seeds (ground)
+- 1-2 tsp Garlic Powder
+- 1 tsp Salt
+- 1 tsp Oregano
+- 1 T Nutritional Yeast
+
+* Method:
+1. Slice avocado into 1/4-1/2 inch strips.
+2. Mix dry ingredients to make a flax breading.
+3. Roll the avocado in a flax breading.
+4. Dehydrate the avocado slices for about an hour.

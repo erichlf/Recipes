@@ -1,0 +1,23 @@
+#+TITLE: Cheddar Sauce
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Sauces/CheddarSauce
+#+KEYWORDS:    vegan, raw, sauce
+#+TAGS:        vegan, raw, sauce
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Cheddar Sauce
+* Ingredients
+1/2 Red Bell Pepper
+1/4 C Water
+1 C Raw Cashews
+1 T Tahini
+2 T Nutritional Yeast
+1 1/2 tsp Sea Salt
+2 tsp Onion Powder
+1 Clove Garlic
+2 T Lemon Juice
+
+* Method:
+1. Blend until creamy.
+2. Add more water if it is too thick.

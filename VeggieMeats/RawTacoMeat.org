@@ -1,0 +1,19 @@
+#+TITLE: Raw Taco Meat
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/VeggieMeats/RawTacoMeat
+#+KEYWORDS:    vegan, raw, veggie meats, mexican
+#+TAGS:        vegan, raw, veggie meats, mexican
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Raw Taco Meat
+* Ingredients:
+- 1 1/2 C Walnuts
+- 1 1/2 tsp Cumin Powder
+- 3/4 tsp Coriander
+- 2 T Braggs
+- 1/2 tsp Cayenne
+- Cilantro (to taste)
+
+* Method:
+1. Blend all ingredients in blender until desired texture is achieved.
