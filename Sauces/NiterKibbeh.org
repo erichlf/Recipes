@@ -1,0 +1,30 @@
+#+TITLE:       Niter Kibbeh
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Sauces/NiterKibbeh
+#+KEYWORDS:    ethiopian
+#+TAGS:        ethiopian
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Niter Kibbeh
+* Ingredients:
+- 1 lb Unsalted Butter
+- 1 Onion (coarsely chopped)
+- 3 T Garlic (finely chopped)
+- 1 tsp Cardamom
+- 1 tsp Fenugreek Seeds
+- 1 tsp Ground Cumin
+- 1-2 T Ginger Root (peeled and finely chopped)
+- 1/4 tsp Ground Nutmeg
+- 1 tsp Oregano
+- 1/2 tsp Ground Turmeric
+- 5-6 Basil Leaves
+
+* Method:
+1. Place butter in a medium sauce pan and melt completely on low heat.
+2. Simmer without letting butter brown, until the surface is completely coated with foam.
+3. Skim off the foam as it rises to the surface, skimming until no more remains.
+4. One the butter looks transparent, add all the ingredients.
+5. Continue cooking on low heat for about 15-20 minutes.
+6. Pass the kibbeh through a cheese cloth or sieve.
+7. Store in a tightly covered container in the fridge.

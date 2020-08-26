@@ -1,0 +1,32 @@
+#+TITLE:       Butecha
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/Butecha
+#+KEYWORDS:    ethiopian, entree
+#+TAGS:        ethiopian, entree
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Butecha
+* Ingredients:
+- 6 T Chick Pea Flour
+- 2 T Lemon Juice
+- 1/4 tsp Turmeric Powder
+- 1/2 tsp Ginger Powder
+- 1 Jalapeno (seeded and finely chopped)
+- 1/4 C Onions (finely chopped)
+- 2 C Water
+- 2 T Olive Oil
+
+* Method:
+1. Measure two cups of water into a bowl, and dissolve about 6 T of chick pea flour in
+   the water.
+2. Add the olive oil and the lemon juice mixing the ingredients well.
+3. Add the turmeric and ginger continuing to mix until mixture is smooth.
+4. Place in a large pot.
+5. Turn on the heat to low-medium, and bring it to a lightly bubbling boil.
+6. When the mixture begins to bubble, adjust the heat so that it doesn't spit and splatter.
+7. Once mixture has thickened, remove from the heat and pour the butecha into a bowl.
+8. Add the finely chopped onions and jalapeno.
+9. Stir it all together thoroughly.
+10. Cover and refrigerate for a few hours. It should look like scrambled eggs after you stir it.
+11. Mix and serve hot or cold, reheating in a microwave before serving if you prefer it hot.

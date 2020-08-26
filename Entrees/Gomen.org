@@ -1,0 +1,29 @@
+#+TITLE:       Gomen
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Entrees/Gomen
+#+KEYWORDS:    ethiopian, entree
+#+TAGS:        ethiopian, entree
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Gomen
+* Ingredients:
+- 1 lb Collard Greens or Kale
+- 1/2 C Onions (finely chopped)
+- 2 T Olive Oil
+- 1/2 tsp Garlic (chopped)
+- 1/2 tsp Ginger Powder
+
+* Method:
+1. Strip the leafy greens of the vegetable from the thick spine that runs through each leaf.
+2. Coarsely chop the greens, and then boil them in water until they’re very soft and tender,
+   about 45-60 minutes.
+3. Drain the water, but reserve just a little for the next step.
+4. In a new pot, cook the onions and garlic in the olive oil for until the onions become
+   translucent.
+5. Add ginger and stir the mixture cooking it for a minute.
+6. Add the well-cooked greens and just a little bit of water.
+7. Let the greens, onions and spices simmer until the water begins to cook off and the greens
+   are very soft.
+8. Pour off excess water when the greens are ready or add water if they become to dry as you
+   cook them.

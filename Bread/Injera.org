@@ -1,0 +1,63 @@
+#+TITLE:       Injera
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Bread/Injera
+#+KEYWORDS:    ethiopian, bread
+#+TAGS:        ethiopian, bread
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Injera
+* Ingredients:
+- Teff Flour
+- White Flour (optional)
+- Water
+
+* Method:
+** Initial Ferment (day 1):
+1. In a large bowl mix 1/2 C of sourdough start, 1 C water, and 1 C of teff flour.
+2. Cover the bowl with a towel and allow to sit in a warm place overnight. It is
+   important to wait until your sponge is light and fluffy with new air bubbles from
+   the yeast before moving on to the next step.
+
+** Making the Dough (day 2):
+1. Once your sponge is ready, add 1 C of teff flour, using a soft spatula to fold the
+   dough over itself until it is no longer crumbly and holds its shape. You may need to
+   add a little more teff or water at this point to get the right consistency. The mixture
+   should be a stiff dough at this point.
+2. Cover the bowl again and allow the dough to rise for about 8 hours.
+
+** Soaking Dough (day 3):
+1. Pour enough water over the dough so that it covers it by several inches.
+2. Use a spoon or your hand to mix the dough thoroughly into the water.
+3. Cover the bowl and let sit for at least 12-24 hours.
+
+** Developing Dough (day 4):
+1. Remove the blackish liquid (hooch) that has formed on the top of the injera and set aside.
+2. Remove about a cup of the injera and cook on medium heat in a small pot until the
+   dough begins to thicken.
+3. Let the thickened injera cool and then add back into injera dough mixing until lumps are gone.
+4. Mix in enough water to make the dough have a crepe consistency.
+5. Let ferment for another 8 hours.
+
+** Cook Injera (day 4.5):
+1. Remove hooch and set aside.
+2. Add hooch back into injera until it is slightly thinner than crepe batter.
+3. Usually you would want to use a mitad, but as this can be difficult to find, you will want
+   to use a pan that is flat and can have a cover placed over it.
+4. Preheat your pan over medium heat (~250F).
+5. Reserve 1/2 C injera as a starter for next time.
+6. Using a ladle pour injera batter from the outside in to form a circle.
+7. Cook until your start to see bubbles (eyes) forming over the entire injera.
+8. Cover with a lid and cook for another 5 minutes. Make sure it doesn't dry out.
+9. When the edges begin to lift off the pan slightly you can remove the injera and place on
+   a dishtowel to allow it to cool. Be sure to have the top facing upwards, since it will be
+10. Adjust hydration if you need to by adding back in hooch.
+11. Continue this process until you have used all your dough
+
+* Notes:
+Injera is really tricky to make so keep trying and eventually you will get it right.
+
+The amount of water you add isn't very important until the cooking stage, so don't worry about
+adding too much water.
+
+You can at any point substitute a portion of teff flour with white flour.
