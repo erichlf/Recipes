@@ -1,0 +1,29 @@
+#+TITLE:       Sahtea
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Kombucha/Sahtea
+#+KEYWORDS:    kombucha
+#+TAGS:        kombucha
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Sahtea
+* Ingredients:
+- 1 Gal Kombucha
+- 750 ml Water
+- 5 g Fresh Rosemary
+- 5 Bay Leaves
+- 10 g Fresh Mint
+- 5 g Elderflower (dried)
+- 10 g Juniper Berries
+- 40 g Sugar
+
+* Method:
+1. Boil all ingredients in water for about 30 minutes.
+2. Let mixture cool to less than 32C (90F).
+3. Remove all spices.
+4. Mix in sugar.
+5. Add spice syrup to kombucha.
+6. Bottle.
+
+* Notes:
+Using a bag for the spices will make getting spices out of water easier.
