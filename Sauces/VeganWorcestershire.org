@@ -1,0 +1,25 @@
+#+TITLE: Vegan Worcestershire
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Sauces/VeganWorcestershire
+#+KEYWORDS:    vegan
+#+TAGS:        vegan
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Vegan Worcestershire
+* Ingredients
+- 1/2 C Apple-Cider Vinegar
+- 2 T Soy Sauce
+- 1 T Brown Sugar
+- 1/4 tsp Ground Ginger
+- 1/4 tsp Ground Yellow Mustard Seed (or Dry Mustard)
+- 1/4 tsp Onion Powder
+- 1 Clove Garlic (crushed)
+- 1 pinch Ground Cinnamon
+- 1 pinch Black Pepper
+
+* Method:
+- Place all ingredients in a medium saucepan.
+- Bring to a boil over medium-high heat.
+- Reduce heat to a simmer and cook until liquid is reduced by half.
+- Strain through a fine-mesh sieve and let cool completely.
