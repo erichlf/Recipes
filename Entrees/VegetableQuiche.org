@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Entrees/VegetableQuiche
 #+KEYWORDS:    entree, french
-#+TAGS:        entree, french
+#+TAGS:        :entree:french:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Vegetable Quiche

@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Beer/TripleCIPA
 #+KEYWORDS:    beer, ipa, citra, chinook, cascade
-#+TAGS:        beer, ipa
+#+TAGS:        :beer:ipa:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: An IPA using Cascade, Chinook, and Citra Hops

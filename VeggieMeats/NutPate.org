@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/VeggieMeats/NutPate
 #+KEYWORDS:    vegan, raw, veggie meat
-#+TAGS:        vegan, raw, veggie meat
+#+TAGS:        :vegan:raw:veggie:meat:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Nut Pate

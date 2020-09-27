@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/BerbereSpice
 #+KEYWORDS:    ethiopian
-#+TAGS:        ethiopian
+#+TAGS:        :ethiopian:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Berbere Spice

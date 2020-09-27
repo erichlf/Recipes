@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Bread/Cornbread
 #+KEYWORDS:    bread, southern
-#+TAGS:        bread, southern
+#+TAGS:        :bread:southern:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Cast iron cornbread that is really yummy

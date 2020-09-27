@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Bread/WholeWheatSandwichBread
 #+KEYWORDS:    vegan, bread, whole wheat
-#+TAGS:        vegan, bread, whole wheat
+#+TAGS:        :vegan:bread:whole:wheat:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: A soft whole wheat sandwich bread

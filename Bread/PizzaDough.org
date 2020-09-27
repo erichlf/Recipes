@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Bread/PizzaDough
 #+KEYWORDS:    bread, italian
-#+TAGS:        bread, italian
+#+TAGS:        :bread:italian:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Pizza Dough

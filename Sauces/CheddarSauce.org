@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Sauces/CheddarSauce
 #+KEYWORDS:    vegan, raw, sauce
-#+TAGS:        vegan, raw, sauce
+#+TAGS:        :vegan:raw:sauce:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Cheddar Sauce

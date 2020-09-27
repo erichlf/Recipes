@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/VeggieMeats/RawMeatballs
 #+KEYWORDS:    vegan, raw, veggie meats
-#+TAGS:        vegan, raw, veggie meats
+#+TAGS:        :vegan:raw:veggie:meats:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Raw Meatballs

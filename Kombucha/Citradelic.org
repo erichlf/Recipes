@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Kombucha/Citradelic
 #+KEYWORDS:    kombucha, hops
-#+TAGS:        kombucha, hops
+#+TAGS:        :kombucha:hops:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Citradelic

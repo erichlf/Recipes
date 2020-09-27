@@ -3,7 +3,7 @@
 #+EMAIL:       erichlf@gmail.com
 #+URI:         /Recipes/Appetizers/PotatoSalad
 #+KEYWORDS:    vegan, appetizer, bbq
-#+TAGS:        vegan, appetizer, bbq
+#+TAGS:        :vegan:appetizer:bbq:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Yummy Vegan Potato Salad
