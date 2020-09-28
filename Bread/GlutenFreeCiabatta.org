@@ -3,7 +3,7 @@
 #+EMAIL:       
 #+URI:         /Recipes/Bread/GlutenFreeCiabatta
 #+KEYWORDS:    bread, gluten free, italian
-#+TAGS:        :bread:gluten:free:italian:
+#+TAGS:        :bread:gluten free:italian:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: A surprisingly good gluten free ciabatta

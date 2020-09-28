@@ -2,8 +2,8 @@
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       
 #+URI:         /Recipes/VeggieMeats/RawMeatballs
-#+KEYWORDS:    vegan, raw, veggie meats
-#+TAGS:        :vegan:raw:veggie meats:
+#+KEYWORDS:    vegan, raw, veggie meat
+#+TAGS:        :vegan:raw:veggie meat:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Raw Meatballs
