@@ -1,6 +1,6 @@
 #+TITLE:       Vegan Banana Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Dessert/BananaBread
 #+KEYWORDS:    vegan, dessert, bread
 #+TAGS:        :vegan:dessert:bread:

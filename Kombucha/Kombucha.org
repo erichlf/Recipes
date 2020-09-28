@@ -1,6 +1,6 @@
 #+TITLE:       Kombucha
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Kombucha/Kombucha
 #+KEYWORDS:    kombucha
 #+TAGS:        :kombucha:

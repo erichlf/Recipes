@@ -1,6 +1,6 @@
 #+TITLE: Asian Soup
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/SoupAndSalad/AsianSoup
 #+KEYWORDS:    soup
 #+TAGS:        :soup:

@@ -1,6 +1,6 @@
 #+TITLE: Vegan Worcestershire
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Sauces/VeganWorcestershire
 #+KEYWORDS:    vegan
 #+TAGS:        :vegan:

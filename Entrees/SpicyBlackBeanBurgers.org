@@ -1,6 +1,6 @@
 #+TITLE: Spicy Black Bean Burgers
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/SpicyBlackBeanBurgers
 #+KEYWORDS:    vegan, entree
 #+TAGS:        :vegan:entree:

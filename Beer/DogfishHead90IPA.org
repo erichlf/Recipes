@@ -1,6 +1,6 @@
 #+TITLE:       Dogfish Head 90 Minute IPA Clone
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Beer/DogfishHead90IPA
 #+KEYWORDS:    beer, ipa, clone, dogfish
 #+TAGS:        :beer:ipa:clone:

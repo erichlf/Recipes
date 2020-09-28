@@ -1,6 +1,6 @@
 #+TITLE:       Pancakes
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Breakfast/Pancakes
 #+KEYWORDS:    breakfast
 #+TAGS:        :breakfast:

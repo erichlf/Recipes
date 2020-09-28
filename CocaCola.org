@@ -1,6 +1,6 @@
 #+TITLE:       Coca Cola
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/CocaCola
 #+KEYWORDS:    ethiopian
 #+TAGS:        :ethiopian:

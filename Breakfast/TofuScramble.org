@@ -1,6 +1,6 @@
 #+TITLE:       Tofu Scramble
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Breakfast/TofuScramble
 #+KEYWORDS:    vegan, breakfast, high protein
 #+TAGS:        :vegan:breakfast:high:protein:

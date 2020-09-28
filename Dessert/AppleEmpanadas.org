@@ -1,6 +1,6 @@
 #+TITLE:       Apple Empanadas
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/dessert/AppleEmpanadas
 #+KEYWORDS:    vegan, dessert, mexican
 #+TAGS:        :vegan:dessert:mexican:

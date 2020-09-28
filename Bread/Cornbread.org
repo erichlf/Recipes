@@ -1,6 +1,6 @@
 #+TITLE:       Cornbread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Bread/Cornbread
 #+KEYWORDS:    bread, southern
 #+TAGS:        :bread:southern:

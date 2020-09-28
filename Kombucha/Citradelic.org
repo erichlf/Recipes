@@ -1,6 +1,6 @@
 #+TITLE:       Citradelic
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Kombucha/Citradelic
 #+KEYWORDS:    kombucha, hops
 #+TAGS:        :kombucha:hops:

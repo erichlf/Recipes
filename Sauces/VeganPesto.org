@@ -1,6 +1,6 @@
 #+TITLE: Vegan Pesto
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Sauces/VeganPesto
 #+KEYWORDS:    vegan, raw, sauce, italian
 #+TAGS:        :vegan:raw:sauce:italian:

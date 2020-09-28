@@ -1,6 +1,6 @@
 #+TITLE:       Black Sesame Sunflower Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Bread/BlackSesameSunflowerBread
 #+KEYWORDS:    vegan, raw, bread
 #+TAGS:        :vegan:raw:bread:

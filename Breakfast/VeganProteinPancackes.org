@@ -1,6 +1,6 @@
 #+TITLE:       Vegan Protein Pancakes
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Breakfast/VeganProteinPancakes
 #+KEYWORDS:    vegan, breakfast, high protein
 #+TAGS:        :vegan:breakfast:high:protein:

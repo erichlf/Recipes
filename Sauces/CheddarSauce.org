@@ -1,6 +1,6 @@
 #+TITLE: Cheddar Sauce
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Sauces/CheddarSauce
 #+KEYWORDS:    vegan, raw, sauce
 #+TAGS:        :vegan:raw:sauce:

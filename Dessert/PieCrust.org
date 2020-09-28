@@ -1,6 +1,6 @@
 #+TITLE:       Pie Crust
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Dessert/PieCrust
 #+KEYWORDS:    vegan, dessert
 #+TAGS:        :vegan:dessert:

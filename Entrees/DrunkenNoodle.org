@@ -1,6 +1,6 @@
 #+TITLE:       Drunken Noodle
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/DrunkenNoodle
 #+KEYWORDS:    entree, thai
 #+TAGS:        :entree:thai:

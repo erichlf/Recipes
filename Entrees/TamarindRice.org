@@ -1,6 +1,6 @@
 #+TITLE: Tamarind Rice
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/TamarindRice
 #+KEYWORDS:    vegan, entree, indian
 #+TAGS:        :vegan:entree:indian:

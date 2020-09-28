@@ -1,6 +1,6 @@
 #+TITLE:       Butecha
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Butecha
 #+KEYWORDS:    ethiopian, entree
 #+TAGS:        :ethiopian:entree:

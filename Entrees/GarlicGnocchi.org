@@ -1,6 +1,6 @@
 #+TITLE:       Garlic Gnocchi
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/GarlicGnocchi
 #+KEYWORDS:    keta, entree, italian
 #+TAGS:        :keta:entree:italian:

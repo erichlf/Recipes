@@ -1,6 +1,6 @@
 #+TITLE:       Niter Kibbeh
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Sauces/NiterKibbeh
 #+KEYWORDS:    ethiopian
 #+TAGS:        :ethiopian:

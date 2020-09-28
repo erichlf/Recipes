@@ -1,6 +1,6 @@
 #+TITLE:       Rawvioli
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Rawvioli
 #+KEYWORDS:    vegan, raw, entree, italian
 #+TAGS:        :vegan:raw:entree:italian:

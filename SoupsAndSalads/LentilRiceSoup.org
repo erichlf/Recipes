@@ -1,6 +1,6 @@
 #+TITLE: Lentil Rice Soup
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/SoupAndSalad/LentilRiceSoup
 #+KEYWORDS:    soup
 #+TAGS:        :soup:

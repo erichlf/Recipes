@@ -1,6 +1,6 @@
 #+TITLE:       Ayib
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Ayib
 #+KEYWORDS:    ethiopian, entree
 #+TAGS:        :ethiopian:entree:

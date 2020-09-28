@@ -1,6 +1,6 @@
 #+TITLE:       Vegan Potato Salad
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Appetizers/PotatoSalad
 #+KEYWORDS:    vegan, appetizer, bbq
 #+TAGS:        :vegan:appetizer:bbq:

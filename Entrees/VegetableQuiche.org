@@ -1,6 +1,6 @@
 #+TITLE:       Vegetable Quiche
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/VegetableQuiche
 #+KEYWORDS:    entree, french
 #+TAGS:        :entree:french:

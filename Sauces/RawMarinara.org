@@ -1,6 +1,6 @@
 #+TITLE: Raw Marinara
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Sauces/RawMarinara
 #+KEYWORDS:    vegan, raw, sauce, italian
 #+TAGS:        :vegan:raw:sauce:italian:

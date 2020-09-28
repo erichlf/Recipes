@@ -1,6 +1,6 @@
 #+TITLE:       Oatmeal Raisin Cookies
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Dessert/OatmealRaisinCookies
 #+KEYWORDS:    dessert, cookies
 #+TAGS:        :dessert:cookies:

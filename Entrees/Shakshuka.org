@@ -1,6 +1,6 @@
 #+TITLE:       Shakshuka
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Shakshuka
 #+KEYWORDS:    vegan, entree, middle eastern
 #+TAGS:        :vegan:entree:middle:eastern:

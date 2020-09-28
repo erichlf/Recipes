@@ -1,6 +1,6 @@
 #+TITLE:       Pizza
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Pizza
 #+KEYWORDS:    entree, italian
 #+TAGS:        :entree:italian:

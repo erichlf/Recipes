@@ -1,6 +1,6 @@
 #+TITLE:       Gluten Free Ciabatta
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Bread/GlutenFreeCiabatta
 #+KEYWORDS:    bread, gluten free, italian
 #+TAGS:        :bread:gluten:free:italian:

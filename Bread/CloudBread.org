@@ -1,6 +1,6 @@
 #+TITLE:       Cloud Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Bread/CloudBread
 #+KEYWORDS:    keta, bread
 #+TAGS:        :keta:bread:

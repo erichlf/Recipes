@@ -1,6 +1,6 @@
 #+TITLE:       Ramen
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Ramen
 #+KEYWORDS:    vegan, entree, japanese
 #+TAGS:        :vegan:entree:japanese:

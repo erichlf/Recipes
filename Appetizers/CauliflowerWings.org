@@ -1,6 +1,6 @@
 #+TITLE:       Cauliflower Wings
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Appetizers/CauliflowerWings
 #+KEYWORDS:    vegan, appetizer
 #+TAGS:        :vegan:appetizer:

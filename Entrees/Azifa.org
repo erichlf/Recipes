@@ -1,6 +1,6 @@
 #+TITLE:       Azifa
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Azifa
 #+KEYWORDS:    ethiopian, entree
 #+TAGS:        :ethiopian:entree:

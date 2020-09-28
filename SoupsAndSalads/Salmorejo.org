@@ -1,6 +1,6 @@
 #+TITLE: Salmorejo
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/SoupAndSalad/Salmorejo
 #+KEYWORDS:    soup, spanish
 #+TAGS:        :soup:spanish:

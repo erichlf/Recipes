@@ -1,6 +1,6 @@
 #+TITLE:       Beer Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Bread/BeerBread
 #+KEYWORDS:    bread, beer
 #+TAGS:        :bread:beer:

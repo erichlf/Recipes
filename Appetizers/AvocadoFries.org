@@ -1,6 +1,6 @@
 #+TITLE:       Avocado Fries
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Appetizers/AvocadoFries
 #+KEYWORDS:    vegan, raw, appetizer
 #+TAGS:        :vegan:raw:appetizer:

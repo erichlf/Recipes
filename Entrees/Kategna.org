@@ -1,6 +1,6 @@
 #+TITLE:       Kategna
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Entrees/Kategna
 #+KEYWORDS:    ethiopian, entree
 #+TAGS:        :ethiopian:entree:

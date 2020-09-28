@@ -1,6 +1,6 @@
 #+TITLE:       Apfel Streusel Kuchen
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/Dessert/ApfelStreuselKuchen
 #+KEYWORDS:    dessert, german
 #+TAGS:        :dessert:german:

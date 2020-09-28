@@ -1,6 +1,6 @@
 #+TITLE:       Berbere Spice
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       erichlf@gmail.com
+#+EMAIL:       
 #+URI:         /Recipes/BerbereSpice
 #+KEYWORDS:    ethiopian
 #+TAGS:        :ethiopian:
