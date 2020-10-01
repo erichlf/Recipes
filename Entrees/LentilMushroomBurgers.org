@@ -1,6 +1,6 @@
 #+TITLE:       Lentil Mushroom Burgers
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Entrees/LentilMushroomBurgers
 #+KEYWORDS:    vegan, entree
 #+TAGS:        :vegan:entree:

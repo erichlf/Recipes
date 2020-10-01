@@ -1,6 +1,6 @@
 #+TITLE:       Corned Beef Seitan
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/VeggieMeats/CornedBeefSeitan
 #+KEYWORDS:    vegan, veggie meat
 #+TAGS:        :vegan:veggie meat:

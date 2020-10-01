@@ -1,6 +1,6 @@
 #+TITLE:       Nut Roast
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Entrees/NutRoast
 #+KEYWORDS:    vegan, entree
 #+TAGS:        :vegan:entree:

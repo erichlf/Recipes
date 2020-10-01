@@ -1,6 +1,6 @@
 #+TITLE:       Fauxnard
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/VeggieMeats/Fauxnard
 #+KEYWORDS:    veggie meat
 #+TAGS:        :veggie meat:

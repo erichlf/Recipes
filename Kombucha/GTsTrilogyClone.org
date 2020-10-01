@@ -1,6 +1,6 @@
 #+TITLE:       GTs Trilogy Clone
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Kombucha/GTsTrilogyClone
 #+KEYWORDS:    kombucha, clone
 #+TAGS:        :kombucha:clone:

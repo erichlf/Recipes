@@ -1,6 +1,6 @@
 #+TITLE:       Pita
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/Pita
 #+KEYWORDS:    bread, middle eastern
 #+TAGS:        :bread:middle eastern:

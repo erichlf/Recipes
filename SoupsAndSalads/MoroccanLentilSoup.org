@@ -1,6 +1,6 @@
 #+TITLE: Moroccan Lentil Soup
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/SoupAndSalad/MoroccanLentilSoup
 #+KEYWORDS:    soup, moroccan
 #+TAGS:        :soup:moroccan:

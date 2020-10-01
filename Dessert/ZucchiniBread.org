@@ -1,6 +1,6 @@
 #+TITLE:       Zucchini Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Dessert/ZucchiniBread
 #+KEYWORDS:    dessert, bread
 #+TAGS:        :dessert:bread:

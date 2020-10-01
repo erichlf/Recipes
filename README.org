@@ -1,6 +1,6 @@
 #+TITLE:       About
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/About
 #+LANGUAGE:    en
 #+OPTIONS:     :H:3:num:nil:toc:nil \n:nil  :t |:t ^:nil -:nil:f:t *:t <:t:

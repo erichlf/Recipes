@@ -1,6 +1,6 @@
 #+TITLE: Pesto
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Sauces/Pesto
 #+KEYWORDS:    sauce, italian
 #+TAGS:        :sauce:italian:

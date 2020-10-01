@@ -1,6 +1,6 @@
 #+TITLE:       Vegetable Samosa
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Appetizers/Samosa
 #+KEYWORDS:    vegan, appetizer, indian
 #+TAGS:        :vegan:appetizer:indian:

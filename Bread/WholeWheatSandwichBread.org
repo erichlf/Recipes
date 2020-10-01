@@ -1,6 +1,6 @@
 #+TITLE:       Whole Wheat Sandwich Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/WholeWheatSandwichBread
 #+KEYWORDS:    vegan, bread, whole wheat
 #+TAGS:        :vegan:bread:whole:wheat:

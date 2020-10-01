@@ -1,6 +1,6 @@
 #+TITLE:       Crepes
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Breakfast/Crepes
 #+KEYWORDS:    vegan, breakfast
 #+TAGS:        :vegan:breakfast:

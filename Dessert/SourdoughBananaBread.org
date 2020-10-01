@@ -1,6 +1,6 @@
 #+TITLE:       Sourdough Banana Bread
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Dessert/SourdoughBananaBread
 #+KEYWORDS:    dessert, sourdough, bread
 #+TAGS:        :dessert:sourdough:bread:

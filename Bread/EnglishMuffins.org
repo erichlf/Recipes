@@ -1,6 +1,6 @@
 #+TITLE:       English Muffins
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/EnglishMuffins
 #+KEYWORDS:    bread, breakfast
 #+TAGS:        :bread:breakfast:

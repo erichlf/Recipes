@@ -1,6 +1,6 @@
 #+TITLE:       Veggie Taco Meat
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Entrees/VeggieTacoMeat
 #+KEYWORDS:    veggie meat, lation
 #+TAGS:        :veggie meat:latino:

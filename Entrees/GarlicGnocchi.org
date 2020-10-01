@@ -1,6 +1,6 @@
 #+TITLE:       Garlic Gnocchi
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Entrees/GarlicGnocchi
 #+KEYWORDS:    keto, entree, italian
 #+TAGS:        :keto:entree:italian:

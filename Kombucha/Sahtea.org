@@ -1,6 +1,6 @@
 #+TITLE:       Sahtea
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Kombucha/Sahtea
 #+KEYWORDS:    kombucha
 #+TAGS:        :kombucha:

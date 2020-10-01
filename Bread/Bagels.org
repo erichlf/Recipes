@@ -1,6 +1,6 @@
 #+TITLE:       Bagels
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/Bagels
 #+KEYWORDS:    bread, breakfast
 #+TAGS:        :bread:breakfast:

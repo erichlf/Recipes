@@ -1,6 +1,6 @@
 #+TITLE:       Sourdough English Muffins
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/SourdoughEnglishMuffins
 #+KEYWORDS:    bread, sourdough, breakfast
 #+TAGS:        :bread:sourdough:breakfast:

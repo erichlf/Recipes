@@ -1,6 +1,6 @@
 #+TITLE: Raw Falafel
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Appetizers/RawFalafel
 #+KEYWORDS:    vegan, raw, appetizer, middle eastern
 #+TAGS:        :vegan:raw:appetizer:middle eastern:

@@ -1,6 +1,6 @@
 #+TITLE: Jalapeno Burgers
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Entrees/JalapenoBurgers
 #+KEYWORDS:    vegan, raw, entree
 #+TAGS:        :vegan:raw:entree:

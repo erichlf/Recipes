@@ -1,6 +1,6 @@
 #+TITLE:       Raw Burger Buns
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/RawBurgerBuns
 #+KEYWORDS:    vegan, raw, bread
 #+TAGS:        :vegan:raw:bread:

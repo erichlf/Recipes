@@ -1,6 +1,6 @@
 #+TITLE: Potato Leek Soup
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/SoupAndSalad/PotatoLeekSoup
 #+KEYWORDS:    soup
 #+TAGS:        :soup:

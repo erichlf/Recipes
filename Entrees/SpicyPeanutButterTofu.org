@@ -1,6 +1,6 @@
 #+TITLE: Spicy Peanut Butter Tofu
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Entrees/SpicyPeanutButterTofu
 #+KEYWORDS:    vegan, entree
 #+TAGS:        :vegan:entree:

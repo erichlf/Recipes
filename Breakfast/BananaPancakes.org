@@ -1,6 +1,6 @@
 #+TITLE:       Banana Pancakes
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Breakfast/BananaPancakes
 #+KEYWORDS:    vegan, breakfast
 #+TAGS:        :vegan:breakfast:

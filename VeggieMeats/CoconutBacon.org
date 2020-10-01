@@ -1,6 +1,6 @@
 #+TITLE:       Coconut Bacon
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/VeggieMeats/CoconutBacon
 #+KEYWORDS:    vegan, breakfast, veggie meat
 #+TAGS:        :vegan:breakfast:veggie meat:

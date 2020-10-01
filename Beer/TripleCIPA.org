@@ -1,6 +1,6 @@
 #+TITLE:       Triple C IPA
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Beer/TripleCIPA
 #+KEYWORDS:    beer, ipa, citra, chinook, cascade
 #+TAGS:        :beer:ipa:

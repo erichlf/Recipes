@@ -1,6 +1,6 @@
 #+TITLE:       Biscuits
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/Biscuits
 #+KEYWORDS:    vegan, bread, southern
 #+TAGS:        :vegan:bread:southern:

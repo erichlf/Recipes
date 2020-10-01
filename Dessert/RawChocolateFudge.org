@@ -1,6 +1,6 @@
 #+TITLE:       Raw Chocolate Fudge
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Dessert/BananaBread
 #+KEYWORDS:    vegan, dessert, raw
 #+TAGS:        :vegan:dessert:raw:

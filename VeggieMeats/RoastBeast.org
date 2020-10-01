@@ -1,6 +1,6 @@
 #+TITLE:       Roast Beast
 #+AUTHOR:      Erich L Foster
-#+EMAIL:       
+#+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/VeggieMeats/RoastBeast
 #+KEYWORDS:    vegan, veggie meat
 #+TAGS:        :vegan:veggie meat:
