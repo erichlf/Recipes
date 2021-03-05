@@ -1,0 +1,28 @@
+#+TITLE:       Baked Oatmeal
+#+AUTHOR:      Erich L Foster
+#+EMAIL:       erichlf@gmail.com
+#+URI:         /Recipes/Breakfast/BakedOatmeal
+#+KEYWORDS:    vegan
+#+TAGS:        :vegan:
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: A vegan baked oatmeal with berries
+* Ingredients:
+  - 125g Rolled Oats
+  - 150g Steel Cut Oats
+  - 110g Sugar
+  - 125ml Vegetable Oil
+  - 250ml Non-dairy Milk
+  - 1 tsp Baking Powder
+  - 1/2 tsp Salt
+  - 150g Frozen Berry Medley
+  - 2 [[file:../FlaxEgg.org][Flax Eggs]]
+  - Cinnamon (to taste)
+  - Brown Sugar (to taste)
+
+* Method:
+  - Mix all ingredients
+  - Place in a greased 8"x8" pan
+  - Sprinkle cinnamon and brown sugar of oatmeal mixture
+  - Let set overnight
+  - Bake at 120C for 35-45 minutes
