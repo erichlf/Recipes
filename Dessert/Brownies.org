@@ -1,0 +1,36 @@
+#+TITLE:       Fudgy Vegan Brownies
+#+AUTHOR:      Erich L Foster
+#+EMAIL:
+#+DATE:        2021-04-22 Thu
+#+URI:         /recipes/Brownies
+#+KEYWORDS:    vegan, dessert
+#+TAGS:        :vegan:dessert:
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Fudgy Vegan Brownies
+* Ingredient:
+  - 1/2 C Flour
+  - 1 1/4 C Water
+  - 2 2/3 C Sugar
+  - 1 1/2 tsp Salt
+  - 2 tsp Vanilla
+  - 1 C Cocoa
+  - 2/3 C Vegetable Oil
+  - 2 C flour
+  - 1 tsp Baking Powder
+  - 3/4 C Chopped Nuts (Optional)
+
+* Method:
+  - In a saucepan cook the 1/2 C flour water and sugar over low heat. This will
+    thicken, the thicker it is the fudgier the brownie. Obviously don't dry
+    this out too much.
+  - When the above mixture has cooled add salt, vanilla, cocoa, and vegetable oil
+    and mixture thoroughly.
+  - Mix remaining flour and baking powder into mixture. Use your judgment on how
+    much of the remaining flour to add. The thicker the flour paste from the first
+    step means you will likely want to add less flour now. This mixture will be
+    quite thick though.
+  - Mix in nuts.
+  - "Pour" mixture into a greased 9x9 pan.
+  - Bake at 350F for 25 minutes or until a tooth pick can be inserted into the
+    center and come out clean.
