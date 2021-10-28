@@ -2,8 +2,8 @@
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
 #+URI:         /Recipes/Bread/Cornbread
-#+KEYWORDS:    bread, southern
-#+TAGS:        :bread:southern:
+#+KEYWORDS:    bread, southern, vegan
+#+TAGS:        :bread:southern:vegan:
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Cast iron cornbread that is really yummy
@@ -15,7 +15,7 @@
 - 150 g sugar
 - 1 C Milk
 - 1/4 C Oil
-- 1 egg
+- 1 flax egg
 
 * Method:
 1. Preheat oven to 200C.

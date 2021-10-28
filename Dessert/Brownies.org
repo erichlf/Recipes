@@ -2,7 +2,7 @@
 #+AUTHOR:      Erich L Foster
 #+EMAIL:
 #+DATE:        2021-04-22 Thu
-#+URI:         /recipes/Brownies
+#+URI:         /Recipes/Brownies
 #+KEYWORDS:    vegan, dessert
 #+TAGS:        :vegan:dessert:
 #+LANGUAGE:    en
