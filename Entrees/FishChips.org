@@ -1,6 +1,7 @@
 #+TITLE:       Veggie Fish and Chips
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-08-26 Wed
 #+URI:         /Recipes/Entrees/FishChips
 #+KEYWORDS:    entree
 #+TAGS:        :entree:

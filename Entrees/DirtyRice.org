@@ -1,6 +1,7 @@
 #+TITLE:       Dirty Rice
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-08-26 Wed
 #+URI:         /Recipes/Entrees/DirtyRice
 #+KEYWORDS:    vegan, entree
 #+TAGS:        :vegan:entree:

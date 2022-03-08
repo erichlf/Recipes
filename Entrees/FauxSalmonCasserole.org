@@ -1,6 +1,7 @@
 #+TITLE:       Faux Salmon Casserole
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-08-26 Wed
 #+URI:         /Recipes/Entrees/FauxSalmonCasserole
 #+KEYWORDS:    vegan, raw
 #+TAGS:        :vegan:raw:

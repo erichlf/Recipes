@@ -1,6 +1,7 @@
 #+TITLE:       Baked Oatmeal
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf@gmail.com
+#+DATE:        2021-03-05 Fri
 #+URI:         /Recipes/Breakfast/BakedOatmeal
 #+KEYWORDS:    vegan
 #+TAGS:        :vegan:

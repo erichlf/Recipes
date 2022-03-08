@@ -1,6 +1,7 @@
 #+TITLE:       Flax Egg
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-09-12 Sat
 #+URI:         /Recipes/FlaxEgg
 #+KEYWORDS:    vegan, egg substitute
 #+TAGS:        :vegan:egg substitute:

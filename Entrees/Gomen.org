@@ -1,6 +1,7 @@
 #+TITLE:       Gomen
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-08-26 Wed
 #+URI:         /Recipes/Entrees/Gomen
 #+KEYWORDS:    ethiopian, entree
 #+TAGS:        :ethiopian:entree:

@@ -1,6 +1,7 @@
 #+TITLE:       Pizza Dough
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-08-26 Wed
 #+URI:         /Recipes/Bread/PizzaDough
 #+KEYWORDS:    bread, italian
 #+TAGS:        :bread:italian:

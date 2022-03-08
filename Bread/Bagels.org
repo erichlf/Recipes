@@ -1,6 +1,7 @@
 #+TITLE:       Bagels
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
+#+DATE:        2020-08-25 Tue
 #+URI:         /Recipes/Bread/Bagels
 #+KEYWORDS:    bread, breakfast
 #+TAGS:        :bread:breakfast:
