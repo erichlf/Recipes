@@ -2,7 +2,7 @@
 #+AUTHOR:      Erich L Foster
 #+EMAIL:       erichlf AT gmail DOT com
 #+DATE:        2022-03-08 Tue
-#+URI:         /Recipes/BlackBeanChili
+#+URI:         /Recipes/SoupAndSalad/BlackBeanChili
 #+KEYWORDS:    tex-mex
 #+TAGS:        :tex-mex:
 #+LANGUAGE:    en
